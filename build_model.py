@@ -2,7 +2,7 @@
 """
 
 
-@author: Ammar.Abasi 2022
+@authors: Ammar Abasi, Moayad Aloqaily, and Mohsen Guizani 2022
 """
 
 import tensorflow as tf
